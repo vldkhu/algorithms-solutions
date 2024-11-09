@@ -39,7 +39,7 @@
 
 ## Установка
    ```bash
-   git clone https://github.com/vldkhu/algoritm_leetcode.git
+   git clone https://github.com/vldkhu/algorithms-solutions.git
    ```
 ## Вклад
 Если вы хотите внести свой вклад в этот проект, пожалуйста, создайте форк репозитория, внесите изменения и отправьте пулл-запрос.
